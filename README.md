@@ -16,4 +16,4 @@ We also added helper methods for different operations such as splitting, merging
 
 In total, we got 7.5 points. We couldn't implement the features that could pass the locality, fragmentation, unmap, and alternative design.
 
-Implemented by Gülnisa Yıldırım and Ömer Güler
+Implemented by Gülnisa Yıldırım 
