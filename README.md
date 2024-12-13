@@ -14,6 +14,5 @@ kurealloc function reallocates memory based on pointer and size. If the existing
 
 We also added helper methods for different operations such as splitting, merging, etc.
 
-In total, we got 7.5 points. We couldn't implement the features that could pass the locality, fragmentation, unmap, and alternative design.
 
 Implemented by Gülnisa Yıldırım 
